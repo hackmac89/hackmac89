@@ -1,3 +1,5 @@
+![Banner](https://github.com/hackmac89/gitartwork/raw/main/gitartwork.svg)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on DevOps related stuff (Kubernetes etc.pp.), some Microservices and Reverse Engineering
+
+- 🌱 I’m currently learning Terraform, ... and gardening 🤪
+
+- 📫 How to reach me: See the bio on the left sidebar i guess...
+
+- ⚡ Fun fact: This README is still a work in progress 😉
